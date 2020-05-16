@@ -61,7 +61,7 @@ pre {
 
 a {
   font-style: normal;
-  font-weight: 430;
+  font-weight: 400;
   cursor: pointer;
 }
 a, a:hover {
@@ -348,7 +348,7 @@ figure[mbr-media-size] {
 }
 /*! Buttons */
 .btn {
-  font-weight: 400;
+  font-weight: 500;
   border-width: 2px;
   font-style: normal;
   letter-spacing: 1px;
